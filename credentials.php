@@ -1,5 +1,5 @@
 <?php
-define('DB_NAME', 'mynewdomain_fall2021');
-define('DB_USER', 'bandsuser');
-define('DB_PASSWORD', 'Nikysa97!');
-define('DB_HOST', 'mysql.pshenytskacodes.com');
+define('DB_NAME', '');
+define('DB_USER', '');
+define('DB_PASSWORD', '');
+define('DB_HOST', '');
